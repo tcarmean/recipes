@@ -1,6 +1,8 @@
 # Oyakodon
 ===
 Oyakodon is a simple Japanese dish that is easy to make.
+![Oyakodon]
+(http://upload.wikimedia.org/wikipedia/commons/4/4c/Oyakodon_by_Grilled_Ahi_in_Akihabara-UDX_Building,_Tokyo.jpg)
 
 ### Ingredients
 * 1.5 tablespoons of [Dashi](http://www.amazon.com/Ajinomoto-Dashi-Soup-Stock-5-28/dp/B0002YB40O)
