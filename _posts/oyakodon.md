@@ -22,4 +22,4 @@ Oyakodon is a simple Japanese dish that is easy to make.
 * Once chicken and onion are cooked mix in beat eggs
 * Cover and reduce heat (to low)
 * When egg is cooked serve in a bowl on top of rice
-* *nom*)
+* *nom*
